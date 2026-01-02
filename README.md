@@ -18,8 +18,9 @@ An intelligent Retrieval-Augmented Generation (RAG) system powered by CrewAI tha
 
 ##  Architecture
 
-![Agentic RAG Architecture](assets/agentic-rag-architecture.png)
-
+<p align="center">
+  <img src="assets/architecture.png" alt="Agentic RAG Architecture" width="800"/>
+</p>
 
 ##  Prerequisites
 
